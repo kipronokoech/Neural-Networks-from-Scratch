@@ -1,9 +1,9 @@
 # Neural-Networks-from-Scratch
 
-The Architecture
-![images/data_and_architecture.png](attachment:images/data_and_architecture.png)
+## The Architecture
+source: images/data_and_architecture.png
 <img src="images/data_and_architecture.png">
-Core References
+##Core References
 
 The code in this repository is explained in the following Medium articles:
 
